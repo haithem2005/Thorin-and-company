@@ -25,6 +25,6 @@
          <li>reading from json file/li>
          <li>iterating over json Data</li>
          <li>Creating a form in a template and provide the user with feedback</li>
-         <li> Deploying the project to Heroku</li>
+         <li> Deploying the project to Heroku, link to project https://thorin-hmz.herokuapp.com/</li>
       
 </ul>
